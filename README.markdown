@@ -32,11 +32,7 @@ Contributions of any kind are welcomed!
 
 - Fork this repository to your GitHub account.
 
-- Clone the forked repo from your account using :
-
-```bash
-  git clone https://github.com/<your-username>/web-components.git
-```
+- Clone the forked repo from your account.
 
 - Create a folder and put your files inside the folder.
 
