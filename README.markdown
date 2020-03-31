@@ -44,7 +44,7 @@ Try to include Readme.md in your folder to help other developers.
 
 ## Authors
 
-- **Syed Mohammad Ammar** - _Initial work_ - [PurpleBooth](https://github.com/SMAmmar)
+- **Syed Mohammad Ammar** - _Initial work_ - [SMAmmar14](https://github.com/SMAmmar)
 
 ## License
 
