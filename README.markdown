@@ -44,9 +44,7 @@ Try to include Readme.md in your folder to help other developers.
 
 ## Authors
 
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+- **Syed Mohammad Ammar** - _Initial work_ - [PurpleBooth](https://github.com/SMAmmar)
 
 ## License
 
@@ -55,5 +53,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
+- Inspiration FreeCodeCamp survey form
 - etc
